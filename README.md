@@ -1,6 +1,6 @@
 # 🎮 O mne:
 
-Ahoj! Som začínajúci herný vývojár v **Unity** a **Godot**. Pri tvorbe menších herných projektov ma najviac baví premýšľať nad hernými nápadmi a mechanikami, ktoré by mohli hráčov zaujať. Chcel by som sa ďalej rozvíjať v oblasti **game developmentu** a **game designu**, a uplatniť sa v tíme, kde sa môžem učiť od skúsenejších vývojárov.  
+Ahoj! Som začínajúci herný vývojár v **Unity** a **Godote**. Pri tvorbe menších herných projektov ma najviac baví premýšľať nad hernými nápadmi a mechanikami, ktoré by mohli hráčov zaujať. Chcel by som sa ďalej rozvíjať v oblasti **game developmentu** a **game designu**, a uplatniť sa v tíme, kde sa môžem učiť od skúsenejších vývojárov.  
 Zaujímam sa aj o **Unreal Engine**, ktorý by som rád v budúcnosti preskúmal.
 
 ---
