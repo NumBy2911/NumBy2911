@@ -1,4 +1,4 @@
-# 🎮 Viktor Boťanský – Game Developer
+# 🎮 O mne:
 
 Ahoj! Som začínajúci herný vývojár v **Unity** a **Godot**. Pri tvorbe menších herných projektov ma najviac baví premýšľať nad hernými nápadmi a mechanikami, ktoré by mohli hráčov zaujať. Chcel by som sa ďalej rozvíjať v oblasti **game developmentu** a **game designu**, a uplatniť sa v tíme, kde sa môžem učiť od skúsenejších vývojárov.  
 Zaujímam sa aj o **Unreal Engine**, ktorý by som rád v budúcnosti preskúmal.
@@ -122,7 +122,7 @@ Aktuálne sa zameriavam na zlepšovanie svojich schopností a hľadám nové vý
 
 ---
 
-# 🎮 Viktor Boťanský – Game Developer
+# 🎮 About me:
 
 Hi! I’m a junior game developer working in **Unity** and **Godot**. When creating smaller game projects, I enjoy thinking about gameplay ideas and mechanics that could engage players. I want to continue developing in the field of **game development** and **game design**, and find a team where I can learn from more experienced developers.  
 I'm also interested in **Unreal Engine**, which I would like to explore in the future.
