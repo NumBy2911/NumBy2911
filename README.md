@@ -17,7 +17,7 @@ Zaujímam sa aj o **Unreal Engine**, ktorý by som rád v budúcnosti preskúmal
 
 ## 📫 Kontakt
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/viktor-bo%C5%A5ansk%C3%BD-bb3961251/)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/botansky)  
 - 📧 viktorbotansky2911@gmail.com
 
 ---
@@ -141,7 +141,7 @@ I'm also interested in **Unreal Engine**, which I would like to explore in the f
 
 ## 📫 Contact
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/viktor-bo%C5%A5ansk%C3%BD-bb3961251/)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/botansky)  
 - 📧 viktorbotansky2911@gmail.com
 
 ---
